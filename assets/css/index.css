@@ -69,22 +69,16 @@ body {
 #card-1 {
     filter: hue-rotate(calc(360deg / 1));
 
-    background-image: url("./assets/images/rocket.jpg");
-
     background-position-x: 85%;
 }
 
 #card-2 {
     filter: hue-rotate(calc(360deg / 2));
-
-    background-image: url("./assets/images/stardust.jpg");
 }
 
 #card-3 {
     color: var(--card-bg);
     filter: hue-rotate(calc(360deg / 3));
-
-    background-image: url("./assets/images/gas.jpg");
 
     background-position-x: 40%;
 }
